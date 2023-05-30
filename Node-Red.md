@@ -1,8 +1,8 @@
 1. NODE-RED:</br>
-![image](https://github.com/Gacarvalho29/Objetos-Inteligentes-Conectados/assets/85083155/0a82a099-bb6e-47a9-8412-6385278f47dd)
+![image](https://github.com/Gacarvalho29/Objetos-Inteligentes-Conectados/assets/85083155/5c2448da-d546-4c1f-923a-4d791e8860c8)
 
 2. Nó 1</br>
-![image](https://github.com/Gacarvalho29/Objetos-Inteligentes-Conectados/assets/85083155/e8435c54-796e-4070-b423-878c87e6b75b)
+![image](https://github.com/Gacarvalho29/Objetos-Inteligentes-Conectados/assets/85083155/03cd96be-b426-48d7-95d3-3c0dc944b5b8)
 
 3. Nó 2</br>
 ![image](https://github.com/Gacarvalho29/Objetos-Inteligentes-Conectados/assets/85083155/614415b5-7381-4a2c-9db8-1df7f6ae78f8)
