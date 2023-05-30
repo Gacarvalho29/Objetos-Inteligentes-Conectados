@@ -8,10 +8,10 @@
 ![image](https://github.com/Gacarvalho29/Objetos-Inteligentes-Conectados/assets/85083155/614415b5-7381-4a2c-9db8-1df7f6ae78f8)
 
 4. Nó 3</br>
-![image](https://github.com/Gacarvalho29/Objetos-Inteligentes-Conectados/assets/85083155/adade1f3-8c2d-42f9-97b4-444744d674db)
+![image](https://github.com/Gacarvalho29/Objetos-Inteligentes-Conectados/assets/85083155/09cf9fc0-1d38-4457-8819-978725152ed8)
 
 5. Nó 4</br>
-![image](https://github.com/Gacarvalho29/Objetos-Inteligentes-Conectados/assets/85083155/7585b623-f1ed-4ef9-9034-eda6190a15f2)
+![image](https://github.com/Gacarvalho29/Objetos-Inteligentes-Conectados/assets/85083155/42052079-a9ff-4306-adc5-2ccce54b190b)
 
 6. Nó 5</br>
 ![image](https://github.com/Gacarvalho29/Objetos-Inteligentes-Conectados/assets/85083155/81993237-dc4f-4f1b-b5fc-e19078e0911c)
